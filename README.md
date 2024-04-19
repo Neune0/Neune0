@@ -13,3 +13,5 @@ I'm a computer science student at the University of Cagliari, passionate about e
 - Diverse Areas of Computer Science: Eager to explore different branches of computer science, from algorithms and data structures to software engineering and beyond.
 
 Let's connect and collaborate on exciting projects!
+
+## Projects
