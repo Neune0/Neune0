@@ -16,6 +16,8 @@ Let's connect and collaborate on exciting projects!
 
 
 ## Personal projects
+| Deploy link/Name      | Description | Repository link     |
+| - | - | - |
 
 ## Degree projects
 
