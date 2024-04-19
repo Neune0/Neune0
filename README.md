@@ -20,5 +20,11 @@ Let's connect and collaborate on exciting projects!
 | - | - | - |
 
 ## Degree projects
+| Deploy link/Name      | Description | Repository link     |
+| - | - | - |
+
 
 ## Learning projects
+| Deploy link/Name      | Description | Repository link     |
+| - | - | - |
+
