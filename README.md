@@ -1,5 +1,6 @@
 ### Hi there, im Raimon 👋
 I'm a computer science student at the University of Cagliari, passionate about exploring various fields within the realm of computer science.
+Let's connect and collaborate on exciting projects!
 
 ## About me
 - 🎓 Currently pursuing a degree in computer science
@@ -12,6 +13,6 @@ I'm a computer science student at the University of Cagliari, passionate about e
 - Robotics: Intrigued by the intersection of hardware and software to create intelligent machines.
 - Diverse Areas of Computer Science: Eager to explore different branches of computer science, from algorithms and data structures to software engineering and beyond.
 
-Let's connect and collaborate on exciting projects!
+
 
 ## Projects
