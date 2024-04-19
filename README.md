@@ -18,3 +18,5 @@ Let's connect and collaborate on exciting projects!
 ## Personal projects
 
 ## Degree projects
+
+## Learning projects
