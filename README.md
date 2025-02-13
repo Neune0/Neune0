@@ -19,9 +19,10 @@ Let's connect and collaborate on exciting projects!
 | Deploy link/Name      | Description | Repository link     |
 | - | - | - |
 
-## Degree projects
-| Deploy link/Name      | Description | Repository link     |
-| - | - | - |
+## Degree Projects  
+| Deploy Link/Name | Description | Repository Link |  
+|------------------|-------------|-----------------|  
+| Retro Gaming on Linux Terminal using ncurses | A retro game developed using ncurses for the Linux terminal. | [GitHub Repo](https://github.com/Neune0/progetto-sistemi-operativi) |
 
 
 ## Learning projects
