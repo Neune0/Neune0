@@ -2,6 +2,8 @@
 I'm a computer science student at the University of Cagliari, passionate about exploring various fields within the realm of computer science.
 Let's connect and collaborate on exciting projects!
 
+![](https://komarev.com/ghpvc/?username=Neune0)
+
 ## About me
 - 🎓 Currently pursuing a degree in computer science
 - 🌱 Interested in artificial intelligence, robotics, and exploring diverse areas of computer science
