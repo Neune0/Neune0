@@ -6,7 +6,7 @@ Let's connect and collaborate on exciting projects!
 
 ## About me
 - 🎓 Currently pursuing a degree in computer science
-- 🌱 Interested in artificial intelligence, robotics, and exploring diverse areas of computer science
+- 🌱 Interested in artificial intelligence, robotics, ALife and exploring diverse areas of computer science
 - 💻 Enthusiastic about coding and building projects
 - 📚 Constantly learning and expanding my knowledge
 
@@ -29,5 +29,6 @@ Let's connect and collaborate on exciting projects!
 
 ## Learning projects
 | Deploy link/Name      | Description | Repository link     |
-| - | - | - |
+| --------------------- | ----------- | ------------------- |
+| ML e affini |  A comprehensive implementation of machine learning algorithms from scratch, focusing on educational clarity and understanding core concept | [GitHub Repo](https://github.com/Neune0/ml-from-scratch)
 
