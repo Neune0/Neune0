@@ -17,7 +17,7 @@ Qui puoi trovare le tecnologie con cui lavoro più spesso:
 
 ---
 
-## 🛠️ Progetti Chiave (Key Projects)
+## 🛠️ Progetti Chiave
 
 Questa sezione dimostra la mia capacità di portare a termine progetti completi, dall'architettura al testing.
 
@@ -26,14 +26,14 @@ Questa sezione dimostra la mia capacità di portare a termine progetti completi,
 | Nome Progetto | Descrizione | Link Repo |
 | :--- | :--- | :--- |
 | **Gestore Diete e Allenamenti (MVP Full-Stack)** | Sviluppo di un applicativo gestionale per il tracciamento di dieta e allenamento con architettura **Full-Stack** (Frontend: **React**, Backend: **Node.js**). Implementazione in autonomia della logica di calcolo per la gestione dei macronutrienti. | [GitHub Repo](Link del repository) |
-| **Negozio Online Alimentare (Java MVC)** | Piattaforma di e-commerce simulata implementata in \textbf{Java Servlet} e il paradigma \textbf{MVC}. Focus sulla separazione delle responsabilità e persistenza dei dati tramite \textbf{MySQL}. | [GitHub Repo](Link del repository) |
+| **Negozio Online Alimentare (Java MVC)** | Piattaforma di e-commerce simulata implementata in \textbf{Java Servlet} e il paradigma MVC. Focus sulla separazione delle responsabilità e persistenza dei dati tramite \textbf{MySQL}. | [GitHub Repo](Link del repository) |
 
 ### Academic & Software Engineering
 
 | Nome Progetto | Descrizione | Link Repo |
 | :--- | :--- | :--- |
-| **Gestore Zoo (Focus su Software Testing)** | Applicativo sviluppato con \textbf{Django} e \textbf{MongoDB}. Il focus primario è stato sull'applicazione rigorosa dei principi di \textbf{Ingegneria del Software}, garantendo \textbf{copertura totale} del codice tramite Unit e Integration Test. | [GitHub Repo](Link del repository) |
-| **Retro Gaming on Linux Terminal** | Implementazione del gioco Frogger in linguaggio C, utilizzando \textbf{ncurses} per l'interfaccia terminale e gestendo gli oggetti di gioco tramite processi e thread. | [GitHub Repo](https://github.com/Neune0/progetto-sistemi-operativi) |
+| **Gestore Zoo (Focus su Software Testing)** | Applicativo sviluppato con Django e MongoDB. Il focus primario è stato sull'applicazione rigorosa dei principi di Ingegneria del Software, garantendo copertura totale del codice tramite Unit e Integration Test. | [GitHub Repo](Link del repository) |
+| **Retro Gaming on Linux Terminal** | Implementazione del gioco Frogger in linguaggio C, utilizzando ncurses per l'interfaccia terminale e gestendo gli oggetti di gioco tramite processi e thread. | [GitHub Repo](https://github.com/Neune0/progetto-sistemi-operativi) |
 
 ---
 
