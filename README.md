@@ -26,7 +26,7 @@ Questa sezione dimostra la mia capacità di portare a termine progetti completi,
 | Nome Progetto | Descrizione | Link Repo |
 | :--- | :--- | :--- |
 | **Gestore Diete e Allenamenti (MVP Full-Stack)** | Sviluppo di un applicativo gestionale per il tracciamento di dieta e allenamento con architettura **Full-Stack** (Frontend: **React**, Backend: **Node.js**). Implementazione in autonomia della logica di calcolo per la gestione dei macronutrienti. | - |
-| **Negozio Online Alimentare (Java MVC)** | Piattaforma di e-commerce simulata implementata in \textbf{Java Servlet} e il paradigma MVC. Focus sulla separazione delle responsabilità e persistenza dei dati tramite \textbf{MySQL}. | - |
+| **Negozio Online Alimentare (Java MVC)** | Piattaforma di e-commerce simulata implementata in Java Servlet e il paradigma MVC. Focus sulla separazione delle responsabilità e persistenza dei dati tramite MySQL. | - |
 
 ### Academic & Software Engineering
 
